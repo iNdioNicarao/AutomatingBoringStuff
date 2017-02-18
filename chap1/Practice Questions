@@ -1,0 +1,40 @@
+Practice Questions
+Q: 1.Whichofthefollowingareoperators,andwhicharevalues?
+       operators    values
+       *
+                    'hello'
+                    -88.8
+       -
+       /
+       +
+                    5
+Q: 3.Namethreedatatypes.
+Strings
+Floats
+integer
+Q: 4.Whatisanexpressionmadeupof?
+values and operators organized into a recipe or set of instructions
+Whatdoallexpressionsdo?
+the can be reduced or processed down to to a single value
+ 
+Q: 5.Thischapterintroducedassignmentstatements,likespam=10.Whatisthedifferencebetweenanexpression and a statement?
+an expression evaluates to something whereas a statement assigns a value
+Q: 7.Whatshouldthefollowingtwoexpressionsevaluateto?
+       'spam' + 'spamspam' <spamspamspam>
+       'spam' * 3 'spamspamspam'
+Q: 8.Whyiseggsavalidvariablenamewhile100isinvalid?
+variables cant start with a number
+Q: 9.Whatthreefunctionscanbeusedtogettheinteger,floating-pointnumber,orstringversionofavalue?
+str()int()float()
+Q: 2.Whichofthefollowingisavariable,andwhichisastring?
+var   str
+spam 'spam'
+Q: 6.Whatdoesthevariablebaconcontainafterthefollowingcoderuns?
+      bacon = 20
+      bacon + 1
+      21
+Q: 10.Whydoesthisexpressioncauseanerror?Howcanyoufixit?
+      'I have eaten ' + 99 + ' burritos.'
+      
+      because the integer value must be cast into a str value before str concatentation can occur
+Extra credit: Search online for the Python documentation for the len() function. It will be on a web page titled “Built-in Functions.” Skim the list of other functions Python has, look up what the round() function does, and experiment with it in the interactive shell.
